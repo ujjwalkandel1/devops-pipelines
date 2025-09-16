@@ -1,9 +1,4 @@
-name: CI PipeLine
 
-
-on:
- push:
-   branches: [ main ]
 
 jobs:
    build:
