@@ -3,7 +3,7 @@ name: CI PipeLine
 
 on:
  push:
-   branches: [ main ]
+   branches: [ main ]   
 
 jobs:
    build:
